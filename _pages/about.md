@@ -24,7 +24,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 # Research Highlights
 
-- **MLLM Training**: My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as [GeoLLaVA-8k](https://github.com/MiliLab/GeoLLaVA-8K)  (**NeurlPS 25 Spotlight**).
+- **MLLM Training**: My research focuses on the training of advanced multimodal models, with a particular emphasis on super-high-resolution models such as [GeoLLaVA-8k](https://github.com/MiliLab/GeoLLaVA-8K)  (**NeurlPS 25 Spotlight**).
 
 - **MLLM Evaluation**: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [XLRS-Bench](https://xlrs-bench.github.io/home_page.html) (**CVPR 25 Highlight**), [OmniEarth-Bench](https://github.com/nanocm/OmniEarth-Bench).
 
@@ -80,6 +80,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
