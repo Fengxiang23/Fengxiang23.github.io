@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fengxiang Wang"
-description              : "Ph.D student at National University of Defense and Technology."
+description              : "The third yeaPh.D student at National University of Defense and Technology."
 repository               : "Fengxiang23/wangfengxiang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
