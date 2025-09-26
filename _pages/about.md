@@ -104,15 +104,6 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - L. Lan, `Fengxiang Wang*`, X. Zheng, Z. Wang, & X. Liu. **Efficient prompt tuning of large vision-language model for fine-grained ship classification.** *IEEE TGRS*, 2024. （中科院一区Top SCI，IF=8.6, 共同一作兼独立通讯）  
 [[arXiv]](https://arxiv.org/abs/2403.08271)
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GISci 2024</div><img src='images/gis24.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- `Fengxiang Wang`, D. Yu, L. Huang, Y. Zhang, Y. Chen, & Z. Wang. **Fine-grained ship image classification and detection based on a vision transformer and multi-grain feature vector FPN model.** *Geo-spatial Information Science*, 1–22, 2024. （中科院二区 SCI，IF=5.5, 国产期刊，李德仁院士为主编）  
-[[Paper]](https://doi.org/10.1080/10095020.2024.2331552) 
-
 
 </div>
 </div>
