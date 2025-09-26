@@ -35,6 +35,8 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 <span class='anchor' id='-lwzl'></span>
 
+# 🔥 News
+- *2025.09:* 🎉Two papers are accepted by NeurlPS 2025, and GeoLLaVA-8K has been selected as **Spotlight**.
 
 # 📝 Publications
 ### Conference
@@ -80,6 +82,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
