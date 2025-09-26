@@ -18,27 +18,28 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently pursuing the Ph.D. degree with the College of Computer Science and Technology, National University of Defense Technology, under the supervisor of Prof. Wenjing Yang and Prof. Long Lan. I also collaborate with [[Jing Zhang]](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=zh-CN) and [[Bo Du]](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN) in the remote sensing field. Any questions are welcome to contact me by wfx23@nudt.edu.cn.
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 <span class='anchor' id='-xl'></span>
 
 # Research Highlights
 
-- Multimodal Model Training: My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as SliME and omni-MLLMs, including the VITA series (Vita, Vita 1.5), general MLLMs including Long Vita, Kwai Keye-VL, Kwai Keye-VL 1.5, and Agentic MLLMs such as Thyme: Think Beyond Images projects.
+- **MLLM Training**: My research focuses on the training of advanced multimodal models, with a particular emphasis on super-high-resolution models such as [GeoLLaVA-8k](https://github.com/MiliLab/GeoLLaVA-8K)  (**NeurlPS 25 Spotlight**).
 
-- Model Evaluation: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [[XLRS-Bench]](https://xlrs-bench.github.io/home_page.html) (CVPR 25 Highlight), [[OmniEarth-Bench]](https://github.com/nanocm/OmniEarth-Bench) (arXiv).
+- **MLLM Evaluation**: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [XLRS-Bench](https://xlrs-bench.github.io/home_page.html) (**CVPR 25 Highlight**), [OmniEarth-Bench](https://github.com/nanocm/OmniEarth-Bench).
 
-- Post-Training and Alignment for Multimodal Models: My work also includes the development of post-training techniques for multimodal models, such as MM-RLHF (ICML 25) and DAMO (ICML 25), along with R1-Reward and surveys of MLLM Alignment. These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
+- **Visual Foundation Model**: My research also focuses on the visual foundation models for remote sensing, such as [SelectiveMAE](https://github.com/MiliLab/SelectiveMAE) (**ICCV 25**) and [RoMA](https://github.com/MiliLab/RoMA) (**NeurlPS 25**).
 
-- Applications of MLLMs: My research extends to applications of MLLMs in practical domains, including time-series data (ICML 2024), education (AAAI 25 AI Innovation in Application Award), and detection of low-quality short video (KDD 2025).
+- **Prompt Tuning of VLMs**: My work also includes the development of prompt tuning techniques for vision-language multimodal models, such as [LoL](https://ojs.aaai.org/index.php/AAAI/article/view/28343) (**AAAI 24**) and [RS-tuning](https://ieeexplore.ieee.org/abstract/document/10772151/) (**TGRS**).
 
 
 <span class='anchor' id='-lwzl'></span>
 
+# 🔥 News
+- *2025.09:* 🎉Two papers are accepted by NeurlPS 2025, and GeoLLaVA-8K has been selected as **Spotlight**.
 
 # 📝 Publications
-### Conference
----
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2025 Spotlight</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -124,9 +125,16 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work experience
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2023.11 - 2024.12*, TsinghuaNLP
+- *2024.12 - 2025.10*, Shanghai AI Lab, AI4S
+
+
+
+
+
+
+
+
 
 
 
