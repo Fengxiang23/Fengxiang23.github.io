@@ -39,8 +39,8 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2025.09:* 🎉Two papers are accepted by NeurlPS 2025, and GeoLLaVA-8K has been selected as **Spotlight**.
 
 # 📝 Publications
-### Conference
----
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2025 Spotlight</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,21 +67,15 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 
 
-### Journal
----
-
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
 
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work experience
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2023.11 - 2024.12*, TsinghuaNLP
+- *2024.12 - 2025.10*, Shanghai AI Lab, AI4S
+
+
 
 
 
