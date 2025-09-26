@@ -28,7 +28,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 - **MLLM Evaluation**: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [XLRS-Bench](https://xlrs-bench.github.io/home_page.html) (**CVPR 25 Highlight**), [OmniEarth-Bench](https://github.com/nanocm/OmniEarth-Bench).
 
-- **Visual Foundation Model**: My research also focuses on the foundation models for remote sensing, such as [SelectiveMAE](https://github.com/MiliLab/SelectiveMAE) (**ICCV 25**) and [RoMA](https://github.com/MiliLab/RoMA) (**NeurlPS 25**).
+- **Visual Foundation Model**: My research also focuses on the visual foundation models for remote sensing, such as [SelectiveMAE](https://github.com/MiliLab/SelectiveMAE) (**ICCV 25**) and [RoMA](https://github.com/MiliLab/RoMA) (**NeurlPS 25**).
 
 - **Prompt Tuning of VLMs**: My work also includes the development of prompt tuning techniques for vision-language multimodal models, such as [LoL](https://ojs.aaai.org/index.php/AAAI/article/view/28343) (**AAAI 24**) and [RS-tuning](https://ieeexplore.ieee.org/abstract/document/10772151/) (**TGRS**).
 
@@ -80,6 +80,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
