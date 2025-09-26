@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing the Ph.D. degree with the College of Computer Science and Technology, National University of Defense Technology, under the supervisor of Prof. Wenjing Yang and Prof. Long Lan. I also collaborate with [[Jing Zhang]](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=zh-CN) and [[Bo Du]](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN). Any questions are welcome to contact me by wfx23@nudt.edu.cn.
+I am currently pursuing the Ph.D. degree with the College of Computer Science and Technology, National University of Defense Technology, under the supervisor of Prof. Wenjing Yang and Prof. Long Lan. I also collaborate with [[Jing Zhang]](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=zh-CN) and [[Bo Du]](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN) in the remote sensing field. Any questions are welcome to contact me by wfx23@nudt.edu.cn.
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 <span class='anchor' id='-xl'></span>
@@ -26,7 +26,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 - Multimodal Model Training: My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as SliME and omni-MLLMs, including the VITA series (Vita, Vita 1.5), general MLLMs including Long Vita, Kwai Keye-VL, Kwai Keye-VL 1.5, and Agentic MLLMs such as Thyme: Think Beyond Images projects.
 
-- Model Evaluation: I lead and contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as MME-Realworld (ICLR 25), ErrorRadar (ICLR 25 Workshop), MME-Unify, MME-VideoOCR and MME-Survey. My focus is on evaluating model performance in real-world settings and designing evaluation frameworks, such as VLMEvalKit (2k+ stars).
+- Model Evaluation: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [[XLRS-Bench]](https://xlrs-bench.github.io/home_page.html) (CVPR 25 Highlight), [[OmniEarth-Bench]](https://github.com/nanocm/OmniEarth-Bench) (Arxiv).
 
 - Post-Training and Alignment for Multimodal Models: My work also includes the development of post-training techniques for multimodal models, such as MM-RLHF (ICML 25) and DAMO (ICML 25), along with R1-Reward and surveys of MLLM Alignment. These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
 
@@ -80,5 +80,6 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
