@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently pursuing the Ph.D. degree with the College of Computer Science and Technology, National University of Defense Technology, under the supervisor of Prof. Wenjing Yang and Prof. Long Lan. I also collaborate with [[Jing Zhang]](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=zh-CN) and [[Bo Du]](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN) in the remote sensing field. Any questions are welcome to contact me by wfx23@nudt.edu.cn.
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 <span class='anchor' id='-xl'></span>
 
@@ -74,6 +73,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 # 💻 Work experience
 - *2023.11 - 2024.12*, TsinghuaNLP
 - *2024.12 - 2025.10*, Shanghai AI Lab, AI4S
+
 
 
 
