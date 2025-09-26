@@ -39,12 +39,6 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 # 📝 Publications
 ### Conference
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2025 Spotlight</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-# 📝 Publications
-### Conference & Journal
----
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlights</div><img src='images/xlrs-bench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
