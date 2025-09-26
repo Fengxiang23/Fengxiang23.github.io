@@ -26,13 +26,13 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 - Multimodal Model Training: My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as SliME and omni-MLLMs, including the VITA series (Vita, Vita 1.5), general MLLMs including Long Vita, Kwai Keye-VL, Kwai Keye-VL 1.5, and Agentic MLLMs such as Thyme: Think Beyond Images projects.
 
-- Model Evaluation: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [[XLRS-Bench]](https://xlrs-bench.github.io/home_page.html) (CVPR 25 Highlight), [[OmniEarth-Bench]](https://github.com/nanocm/OmniEarth-Bench) (Arxiv).
+- Model Evaluation: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [[XLRS-Bench]](https://xlrs-bench.github.io/home_page.html) (CVPR 25 Highlight), [[OmniEarth-Bench]](https://github.com/nanocm/OmniEarth-Bench) (arXiv).
 
 - Post-Training and Alignment for Multimodal Models: My work also includes the development of post-training techniques for multimodal models, such as MM-RLHF (ICML 25) and DAMO (ICML 25), along with R1-Reward and surveys of MLLM Alignment. These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
 
 - Applications of MLLMs: My research extends to applications of MLLMs in practical domains, including time-series data (ICML 2024), education (AAAI 25 AI Innovation in Application Award), and detection of low-quality short video (KDD 2025).
 
- 
+
 <span class='anchor' id='-lwzl'></span>
 
 
@@ -42,34 +42,81 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2025 Spotlight</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Fengxiang Wang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[Github]](https://github.com/MiliLab/GeoLLaVA-8K) [[Arxiv]](https://arxiv.org/abs/2505.21375) [[Dataset]](https://huggingface.co/datasets/initiacms/GeoLLaVA-Data)
+# 📝 Publications
+### Conference & Journal
+---
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlights</div><img src='images/xlrs-bench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+- `Fengxiang Wang`, H. Wang, Z. Guo, D. Wang, Y. Wang, M. Chen, ... & M. Sun. **XLRS-bench: Could your multimodal LLMs understand extremely large ultra-high-resolution remote sensing imagery?** *CVPR*, 2025. （CCF-A类会议, CVPR Highlights，前2.8%，共384篇）  
+[[arXiv]](https://arxiv.org/abs/2503.23771) [[Dataset]](https://huggingface.co/datasets/initiacms/XLRS-Bench-lite) [[Code]](https://github.com/AI9Stars/XLRS-Bench)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/selectivemae.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+- `Fengxiang Wang`, H. Wang, D. Wang, Z. Guo, Z. Zhong, L. Lan, ... & J. Zhang. **Harnessing massive satellite imagery with efficient masked image modeling.** *ICCV*, 2025. (CCF-A类会议)  
+[[arXiv]](https://arxiv.org/abs/2406.11933) [[Code]](https://github.com/MiliLab/SelectiveMAE)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Fengxiang Wang`, W. Huang, S. Yang, Q. Fan, & L. Lan. **Learning to learn better visual prompts.** *AAAI*, 2024. (CCF-A 类会议)  
+[[Paper]](https://doi.org/10.1609/aaai.v38i6.28343) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/geollava.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Fengxiang Wang`, M. Chen, Y. Li, D. Wang, H. Wang, Z. Guo, ... & J. Zhang. **GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution.** *NeurIPS*, 2025. （CCF-A 类会议）  
+[[Github]](https://github.com/MiliLab/GeoLLaVA-8K) [[arXiv]](https://arxiv.org/abs/2505.21375) [[Dataset]](https://huggingface.co/datasets/initiacms/GeoLLaVA-Data)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/roma.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Fengxiang Wang`, H. Wang, Y. Wang, D. Wang, M. Chen, H. Zhao, ... & J. Zhang. **Roma: Scaling up mamba-based foundation models for remote sensing.** *NeurIPS*, 2025. （CCF-A 类会议）  
+[[arXiv]](https://arxiv.org/abs/2503.10392) [[Code]](https://github.com/MiliLab/RoMA)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/omnibench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, Z. Guo, ... & L. Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth'**
+[[arXiv]](https://arxiv.org/abs/2505.23522) [[Code]](https://github.com/nanocm/OmniEarth-Bench)
 
 
 
 ### Journal
 ---
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/tgrs24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- L. Lan, `Fengxiang Wang*`, X. Zheng, Z. Wang, & X. Liu. **Efficient prompt tuning of large vision-language model for fine-grained ship classification.** *IEEE TGRS*, 2024. （中科院一区Top SCI，IF=8.6, 共同一作兼独立通讯）  
+[[arXiv]](https://arxiv.org/abs/2403.08271)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GISci 2024</div><img src='images/gis24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Fengxiang Wang`, D. Yu, L. Huang, Y. Zhang, Y. Chen, & Z. Wang. **Fine-grained ship image classification and detection based on a vision transformer and multi-grain feature vector FPN model.** *Geo-spatial Information Science*, 1–22, 2024. （中科院二区 SCI，IF=5.5, 国产期刊，李德仁院士为主编）  
+[[Paper]](https://doi.org/10.1080/10095020.2024.2331552) 
+
 
 
 
