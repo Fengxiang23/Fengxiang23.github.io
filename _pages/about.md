@@ -40,10 +40,10 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 ### Conference
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlights</div><img src='images/xlrs-bench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/xlrs-bench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, H. Wang, Z. Guo, D. Wang, Y. Wang, M. Chen, ... & M. Sun. **XLRS-bench: Could your multimodal LLMs understand extremely large ultra-high-resolution remote sensing imagery?** *CVPR*, 2025. （CCF-A类会议, CVPR Highlights，前2.8%，共384篇）  
+- `Fengxiang Wang`, H. Wang, Z. Guo, D. Wang, Y. Wang, M. Chen, ... & M. Sun. **XLRS-bench: Could your multimodal LLMs understand extremely large ultra-high-resolution remote sensing imagery?** *CVPR*, 2025. （CCF-A类会议, CVPR Highlight，前2.8%，共384篇）  
 [[arXiv]](https://arxiv.org/abs/2503.23771) [[Dataset]](https://huggingface.co/datasets/initiacms/XLRS-Bench-lite) [[Code]](https://github.com/AI9Stars/XLRS-Bench)
 
 </div>
@@ -76,7 +76,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/roma.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Spotlight</div><img src='images/roma.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Fengxiang Wang`, H. Wang, Y. Wang, D. Wang, M. Chen, H. Zhao, ... & J. Zhang. **Roma: Scaling up mamba-based foundation models for remote sensing.** *NeurIPS*, 2025. （CCF-A 类会议, NeurIPS Spotlight, 前3.1%, 共688篇）  
@@ -85,7 +85,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/omniearth.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/omniearth.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, Z. Guo, ... & L. Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data.** *NeurIPS*, 2025.  
