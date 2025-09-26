@@ -85,7 +85,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/omnibench.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/omniearth.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, Z. Guo, ... & L. Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data.** *NeurIPS*, 2025. （CCF-A 类会议）  
