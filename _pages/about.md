@@ -24,15 +24,15 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 # Research Highlights
 
-- Multimodal Model Training: My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as SliME and omni-MLLMs, including the VITA series (Vita, Vita 1.5), general MLLMs including Long Vita, Kwai Keye-VL, Kwai Keye-VL 1.5, and Agentic MLLMs such as Thyme: Think Beyond Images projects.
+- MLLM Training: My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as [GeoLLaVA-8k](https://github.com/MiliLab/GeoLLaVA-8K)  (NeurlPS 25 Spotlight).
 
-- Model Evaluation: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [[XLRS-Bench]](https://xlrs-bench.github.io/home_page.html) (CVPR 25 Highlight), [[OmniEarth-Bench]](https://github.com/nanocm/OmniEarth-Bench) (Arxiv).
+- MLLM Evaluation: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [XLRS-Bench](https://xlrs-bench.github.io/home_page.html) (CVPR 25 Highlight), [OmniEarth-Bench](https://github.com/nanocm/OmniEarth-Bench) (Arxiv).
 
-- Post-Training and Alignment for Multimodal Models: My work also includes the development of post-training techniques for multimodal models, such as MM-RLHF (ICML 25) and DAMO (ICML 25), along with R1-Reward and surveys of MLLM Alignment. These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
+- Visual Foundation Model: My research also focuses on the foundation models for remote sensing, such as [SelectiveMAE](https://github.com/MiliLab/SelectiveMAE) (ICCV 25) and [RoMA](https://github.com/MiliLab/RoMA) (NeurlPS 25).
 
-- Applications of MLLMs: My research extends to applications of MLLMs in practical domains, including time-series data (ICML 2024), education (AAAI 25 AI Innovation in Application Award), and detection of low-quality short video (KDD 2025).
+- Prompt Tuning of VLMs: My work also includes the development of prompt tuning techniques for vision-language multimodal models, such as [LoL](https://ojs.aaai.org/index.php/AAAI/article/view/28343) (AAAI 24) and [RS-tuning](https://ieeexplore.ieee.org/abstract/document/10772151/) (TGRS 24).
 
- 
+
 <span class='anchor' id='-lwzl'></span>
 
 
@@ -80,6 +80,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
