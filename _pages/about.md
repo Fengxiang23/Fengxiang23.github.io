@@ -39,7 +39,6 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 # 📝 Publications
 ### Conference
----
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/xlrs-bench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,7 +98,6 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 
 ### Journal
----
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/tgrs24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -117,6 +115,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 # 💻 Work experience
 - *2023.11 - 2024.11*, THUNLP
 - *2024.12 - 2025.10*, Shanghai AI Lab
+
 
 
 
