@@ -17,8 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing the Ph.D. degree with the College of Computer Science and Technology, National University of Defense Technology, under the supervisor of Prof. Wenjing Yang and Prof. Long Lan. I also collaborate with [[Jing Zhang]](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=zh-CN) and [[Bo Du]](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN) in the remote sensing field. Any questions are welcome to contact me by wfx23@nudt.edu.cn.
+I am currently pursuing the Ph.D. degree with the College of Computer Science and Technology, National University of Defense Technology, under the supervisor of Prof. Wenjing Yang and Prof. Long Lan. I also collaborate with Prof. [[Jing Zhang]](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=zh-CN) and Prof. [[Bo Du]](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN) of Wuhan University in the remote sensing field. Any questions are welcome to contact me by wfx23@nudt.edu.cn.
 
+In the field of multimodal large models, I have carried out a series of works under the guidance of Professors [[Zhiyuan Liu]](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=en) and [[Maosong Sun]](https://scholar.google.com/citations?user=zIgT0HMAAAAJ&hl=en) from the THUNLP lab at Tsinghua University.
+
+In the AI4S domain, my research has been conducted under the supervision of Professor [[Lei Bai]](https://scholar.google.com/citations?user=sakOO04AAAAJ&hl=en&oi=ao) and Dr. [[Wenlong Zhang]](https://scholar.google.com/citations?user=UnMImiUAAAAJ&hl=en) at Shanghai AI Lab.
  
 <span class='anchor' id='-xl'></span>
 
@@ -116,6 +119,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 # 💻 Work experience
 - *2023.11 - 2024.12*, working in THUNLP, guided by the Prof. Zhiyuan Liu and Prof. Maosong Sun.
 - *2025.01 - 2025.10*, working in Shanghai AI Lab, AI for Science, guided by the Mentor Wenlong Zhang and Prof. Lei Bai.
+
 
 
 
