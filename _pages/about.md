@@ -49,7 +49,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Spotlight</div><img src='images/geollava-8k.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Spotlight</div><img src='images/geollava-8k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `Fengxiang Wang`, M. Chen, Y. Li, D. Wang, H. Wang, Z. Guo, ... & J. Zhang. **GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution.** *NeurIPS*, 2025. （CCF-A 类会议, NeurIPS Spotlight, 前3.1%, 共688篇）  
