@@ -25,7 +25,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 
 - **MLLM Training**: My research focuses on the training of advanced multimodal models, with a particular emphasis on super-high-resolution models such as [GeoLLaVA-8k](https://github.com/MiliLab/GeoLLaVA-8K)  (**NeurlPS 25 Spotlight**).
 
-- **MLLM Evaluation**: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [XLRS-Bench](https://xlrs-bench.github.io/home_page.html) (**CVPR 25 Highlight**), [OmniEarth-Bench](https://github.com/nanocm/OmniEarth-Bench).
+- **MLLM Evaluation**: I contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [XLRS-Bench](https://xlrs-bench.github.io/home_page.html) (**CVPR 25 Highlight**), [OmniEarth-Bench](https://github.com/nanocm/OmniEarth-Bench), [SFE](https://github.com/PrismaX-Team/sfe)(**NeurlPS 25**).
 
 - **Visual Foundation Model**: My research also focuses on the visual foundation models for remote sensing, such as [SelectiveMAE](https://github.com/MiliLab/SelectiveMAE) (**ICCV 25**) and [RoMA](https://github.com/MiliLab/RoMA) (**NeurlPS 25**).
 
@@ -115,6 +115,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 # 💻 Work experience
 - *2023.11 - 2024.11*, THUNLP
 - *2024.12 - 2025.10*, Shanghai AI Lab
+
 
 
 
