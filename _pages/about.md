@@ -90,7 +90,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/omniearth.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, Z. Guo, ... & L. Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data.** *NeurIPS*, 2025.  
+- `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, Z. Guo, ... & L. Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data.** *Arxiv*, 2025.  
 [[arXiv]](https://arxiv.org/abs/2505.23522) [[Code]](https://github.com/nanocm/OmniEarth-Bench)
 
 </div>
@@ -103,7 +103,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/tgrs24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- L. Lan, `Fengxiang Wang*`, X. Zheng, Z. Wang, & X. Liu. **Efficient prompt tuning of large vision-language model for fine-grained ship classification.** *IEEE TGRS*, 2024. （中科院一区Top SCI，IF=8.6, 共同一作兼独立通讯）  
+- L. Lan, `Fengxiang Wang*`, X. Zheng, Z. Wang, & X. Liu. **Efficient prompt tuning of large vision-language model for fine-grained ship classification.** *IEEE TGRS*, 2024. （中科院一区Top SCI，IF=8.6）  
 [[arXiv]](https://arxiv.org/abs/2403.08271)
 
 
@@ -117,6 +117,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
