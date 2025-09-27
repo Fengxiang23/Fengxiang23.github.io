@@ -53,17 +53,17 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Spotlight</div><img src='images/geollava.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, M. Chen, Y. Li, D. Wang, H. Wang, Z. Guo, ... & J. Zhang. **GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution.** *NeurIPS*, 2025. （CCF-A 类会议）  
+- `Fengxiang Wang`, M. Chen, Y. Li, D. Wang, H. Wang, Z. Guo, ... & J. Zhang. **GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution.** *NeurIPS*, 2025. （CCF-A 类会议, NeurIPS Spotlight, 前3.1%, 共688篇）  
 [[Github]](https://github.com/MiliLab/GeoLLaVA-8K) [[arXiv]](https://arxiv.org/abs/2505.21375) [[Dataset]](https://huggingface.co/datasets/initiacms/GeoLLaVA-Data)
 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Spotlight</div><img src='images/roma.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/roma.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, H. Wang, Y. Wang, D. Wang, M. Chen, H. Zhao, ... & J. Zhang. **Roma: Scaling up mamba-based foundation models for remote sensing.** *NeurIPS*, 2025. （CCF-A 类会议, NeurIPS Spotlight, 前3.1%, 共688篇）  
+- `Fengxiang Wang`, H. Wang, Y. Wang, D. Wang, M. Chen, H. Zhao, ... & J. Zhang. **Roma: Scaling up mamba-based foundation models for remote sensing.** *NeurIPS*, 2025. （CCF-A 类会议）  
 [[arXiv]](https://arxiv.org/abs/2503.10392) [[Code]](https://github.com/MiliLab/RoMA)
 
 </div>
@@ -117,6 +117,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
