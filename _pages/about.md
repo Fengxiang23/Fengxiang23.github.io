@@ -63,7 +63,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/roma.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, H. Wang, Y. Wang, D. Wang, M. Chen, H. Zhao, ... & J. Zhang. **Roma: Scaling up mamba-based foundation models for remote sensing.** *NeurIPS*, 2025. （CCF-A 类会议）  
+- `Fengxiang Wang`, H. Wang, Y. Wang, D. Wang, M. Chen, ... & J. Zhang. **RoMA: Scaling up mamba-based foundation models for remote sensing.** *NeurIPS*, 2025. （CCF-A 类会议）  
 [[arXiv]](https://arxiv.org/abs/2503.10392) [[Code]](https://github.com/MiliLab/RoMA)
 
 </div>
@@ -72,7 +72,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/selectivemae.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, H. Wang, D. Wang, Z. Guo, Z. Zhong, L. Lan, ... & J. Zhang. **Harnessing massive satellite imagery with efficient masked image modeling.** *ICCV*, 2025. (CCF-A类会议)  
+- `Fengxiang Wang`, H. Wang, D. Wang, Z. Guo, Z. Zhong, ... & J. Zhang. **Harnessing massive satellite imagery with efficient masked image modeling.** *ICCV*, 2025. (CCF-A类会议)  
 [[arXiv]](https://arxiv.org/abs/2406.11933) [[Code]](https://github.com/MiliLab/SelectiveMAE)
 
 </div>
@@ -81,7 +81,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, W. Huang, S. Yang, Q. Fan, & L. Lan. **Learning to learn better visual prompts.** *AAAI*, 2024. (CCF-A 类会议)  
+- `Fengxiang Wang`, W. Huang, S. Yang... & L. Lan. **Learning to learn better visual prompts.** *AAAI*, 2024. (CCF-A 类会议)  
 [[Paper]](https://doi.org/10.1609/aaai.v38i6.28343) 
 
 </div>
@@ -90,7 +90,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/omniearth.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, Z. Guo, ... & L. Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data.** *Arxiv*, 2025.  
+- `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, ... & L. Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data.** *Arxiv*, 2025.  
 [[arXiv]](https://arxiv.org/abs/2505.23522) [[Code]](https://github.com/nanocm/OmniEarth-Bench)
 
 </div>
@@ -117,6 +117,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
 
 
