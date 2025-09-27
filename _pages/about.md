@@ -19,6 +19,7 @@ redirect_from:
 
 I am currently pursuing the Ph.D. degree with the College of Computer Science and Technology, National University of Defense Technology, under the supervisor of Prof. Wenjing Yang and Prof. Long Lan. I also collaborate with [[Jing Zhang]](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=zh-CN) and [[Bo Du]](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN) in the remote sensing field. Any questions are welcome to contact me by wfx23@nudt.edu.cn.
 
+ 
 <span class='anchor' id='-xl'></span>
 
 # Research Highlights
@@ -43,7 +44,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/xlrs-bench.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, H. Wang, Z. Guo, D. Wang, Y. Wang, M. Chen, ... & M. Sun. **XLRS-bench: Could your multimodal LLMs understand extremely large ultra-high-resolution remote sensing imagery?** *CVPR*, 2025. （CCF-A类会议, CVPR Highlight，前3%，共384篇）  
+- `Fengxiang Wang`, H. Wang, Z. Guo, D. Wang, Y. Wang,... Zhiyuan Liu & Maosong Sun. **XLRS-bench: Could your multimodal LLMs understand extremely large ultra-high-resolution remote sensing imagery?** *CVPR*, 2025. （CCF-A类会议, CVPR Highlight，前3%，共384篇）  
 [[arXiv]](https://arxiv.org/abs/2503.23771) [[Dataset]](https://huggingface.co/datasets/initiacms/XLRS-Bench-lite) [[Code]](https://github.com/AI9Stars/XLRS-Bench)
 
 
@@ -53,7 +54,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Spotlight</div><img src='images/geollava-8k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, M. Chen, Y. Li, D. Wang, H. Wang, Z. Guo, ... & J. Zhang. **GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution.** *NeurIPS*, 2025. （CCF-A 类会议, NeurIPS Spotlight, 前3.1%, 共688篇）  
+- `Fengxiang Wang`, M. Chen, Y. Li, D. Wang, H. Wang, ... Bo Du & Jing Zhang. **GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution.** *NeurIPS*, 2025. （CCF-A 类会议, NeurIPS Spotlight, 前3.1%, 共688篇）  
 [[Github]](https://github.com/MiliLab/GeoLLaVA-8K) [[arXiv]](https://arxiv.org/abs/2505.21375) [[Dataset]](https://huggingface.co/datasets/initiacms/GeoLLaVA-Data)
 
 
@@ -90,7 +91,7 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/omniearth.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, ... & L. Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data.** *Arxiv*, 2025.  
+- `Fengxiang Wang`, M. Chen, X. He, Y. Zhang, F. Liu, ... & Lei Bai. **OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data.** *Arxiv*, 2025.  
 [[arXiv]](https://arxiv.org/abs/2505.23522) [[Code]](https://github.com/nanocm/OmniEarth-Bench)
 
 </div>
@@ -113,8 +114,9 @@ I am currently pursuing the Ph.D. degree with the College of Computer Science an
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work experience
-- *2023.11 - 2024.11*, THUNLP
-- *2024.12 - 2025.10*, Shanghai AI Lab
+- *2023.11 - 2024.12*, working in THUNLP, guided by the Prof. Zhiyuan Liu and Prof. Maosong Sun.
+- *2025.01 - 2025.10*, working in Shanghai AI Lab, AI for Science, guided by the Mentor Wenlong Zhang and Prof. Lei Bai.
+
 
 
 
